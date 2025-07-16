@@ -3,7 +3,7 @@ Christopher Boerner
 I am a Computer Engineer interested in embedded systems, digital design, and electronics.
 
 > Languages: I primarily use Python and C/C++  
-> Environment: I mostly work in Linux/GNU (Arch distro) with Neovim, VSCode, and Git
+> Environment: I mostly work in GNU/Linux with Neovim, VSCode, and Git
 
 <a href="https://github.com/boernerc20">
     <img src="./assets/github.svg" />
