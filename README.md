@@ -1,4 +1,4 @@
-Christopher
+Christopher Boerner
 --
 I am a Computer Engineer interested in embedded systems, digital design, and electronics.
 
@@ -8,9 +8,9 @@ I am a Computer Engineer interested in embedded systems, digital design, and ele
 <a href="https://github.com/boernerc20">
     <img src="./assets/github.svg" />
 </a>
-<a href="https://hunterwellis.github.io">
-    <img src="./assets/globe.svg" />
+<a href="https://www.linkedin.com/in/boernerc20/">
+    <img src="./assets/linkedin.svg" class="invert-svg" />
 </a>
-<a href="mailto:github+elliswhunter@gmail.com">
+<a href="mailto:github+boernerc20@gmail.com">
     <img src="./assets/email.svg" />
 </a>
