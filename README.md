@@ -1,9 +1,6 @@
 Christopher Boerner
 --
-I am a Computer Engineer interested in embedded systems, digital design, and electronics.
-
-> Languages: I primarily use Python and C/C++  
-> Environment: I mostly work in GNU/Linux with Neovim, VSCode, and Git
+Electrical Engineer at Northrop Grumman working on spacecraft avionics. Into embedded systems, PCB design, and FPGAs — coding mostly in Python and C/C++.
 
 <a href="https://www.boernerc20.me">
     <img src="./assets/globe.svg" />
